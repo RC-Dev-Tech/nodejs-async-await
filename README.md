@@ -31,11 +31,11 @@
 
 - 但也因為一個龐大的非同步架構在設計上，難免會演變成是一個Callback Hell狀況. <br>
   所以在ES2015(ES6)中，發表介紹了一個新的物件，就是Promise. <br>
-  - Promise — 簡單來說：Callback 以外的另一種方式來處理非同步事件，<br>
-    且可讀性與可維護性比 Callback 好很多。
+  - Promise — Callback以外的另一種方式來處理非同步事件，<br>
+    且可讀性與可維護性比 Callback 好很多。<br>
   - Promise 是一個物件，代表著一個尚未完成，但最終會完成的一個動作，<br>
-    在一個「非同步處理」的流程中，它只是一個暫存的值（Placeholder）。
-  - Promise 物件代表一個即將完成、或失敗的非同步操作，以及它所產生的值。
+    在一個「非同步處理」的流程中，它只是一個暫存的值（Placeholder）。<br>
+  - Promise 物件代表一個即將完成、或失敗的非同步操作，以及它所產生的值。<br>
   - Promise 物件會處於以下幾種狀態：
     - 擱置（pending）：初始狀態，不是 fulfilled 與 rejected。
     - 實現（fulfilled）：表示操作成功地完成。
@@ -58,12 +58,12 @@ Promise使用流程圖：
     所以在學會async/await用法前，一定要先懂promise的用法，甚至還要可以一起混用.
 
 實作範例:
-- [Example1](https://github.com/RC-Dev-Tech/nodejs-express-cookie-parser/blob/main/src/examples/example1.ts) - 標準非同步的實作.
-- [Example2](https://github.com/RC-Dev-Tech/nodejs-express-cookie-parser/blob/main/src/examples/example2.ts) - Promise非同步的基本實作.
-- [Example3](https://github.com/RC-Dev-Tech/nodejs-express-cookie-parser/blob/main/src/examples/example3.ts) - Promise資料的傳遞.
-- [Example4](https://github.com/RC-Dev-Tech/nodejs-express-cookie-parser/blob/main/src/examples/example4.ts) - Async/Await非同步的基本實作.
-- [Example5](https://github.com/RC-Dev-Tech/nodejs-express-cookie-parser/blob/main/src/examples/example5.ts) - Async/Await非同步的錯誤處理.
-- [Example6](https://github.com/RC-Dev-Tech/nodejs-express-cookie-parser/blob/main/src/examples/example6.ts) - Async/Await 搭配Promise.all()使用.
+- [Example1](https://github.com/RC-Dev-Tech/nodejs-async-await/blob/main/src/examples/example1.ts) - 標準非同步的實作.
+- [Example2](https://github.com/RC-Dev-Tech/nodejs-async-await/blob/main/src/examples/example2.ts) - Promise非同步的基本實作.
+- [Example3](https://github.com/RC-Dev-Tech/nodejs-async-await/blob/main/src/examples/example3.ts) - Promise資料的傳遞.
+- [Example4](https://github.com/RC-Dev-Tech/nodejs-async-await/blob/main/src/examples/example4.ts) - Async/Await非同步的基本實作.
+- [Example5](https://github.com/RC-Dev-Tech/nodejs-async-await/blob/main/src/examples/example5.ts) - Async/Await非同步的錯誤處理.
+- [Example6](https://github.com/RC-Dev-Tech/nodejs-async-await/blob/main/src/examples/example6.ts) - Async/Await 搭配Promise.all()使用.
 
 ---
 <br>
