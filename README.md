@@ -6,7 +6,7 @@
 <!--ts-->
 ## 目錄
 * [簡介](#簡介)
-* [Promise流程圖](#Promise使用流程圖)
+* [Promise使用流程圖](#Promise使用流程圖)
 * [實作範例](#實作範例)
 * [操作說明](#操作說明)
 * [切換範例](#切換範例)
@@ -57,6 +57,8 @@
   - async/await 是針對promise-based寫法所進行包裝的一個新撰寫用法.<br>
     其骨子裡還是一樣使用promise，所以回傳的一樣是promise物件.<br>
     所以在學會async/await用法前，一定要先懂promise的用法，甚至還要可以一起混用.
+
+<br>
 
 ## 實作範例
 - [Example1](https://github.com/RC-Dev-Tech/nodejs-async-await/blob/main/src/examples/example1.ts) - 標準非同步的實作.
