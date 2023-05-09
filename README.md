@@ -6,6 +6,8 @@
 <!--ts-->
 ## 目錄
 * [簡介](#簡介)
+* [Promise流程圖](#Promise使用流程圖)
+* [實作範例](#實作範例)
 * [操作說明](#操作說明)
 * [切換範例](#切換範例)
 * [延伸項目](#延伸項目)
@@ -42,7 +44,7 @@
 
 <br>
 
-## Promise使用流程圖：
+## Promise使用流程圖
 ![](https://drive.google.com/uc?id=1oT_SbVq45bgtod-riZV5LJc8BvJYUvIy)
 
 
@@ -56,7 +58,7 @@
     其骨子裡還是一樣使用promise，所以回傳的一樣是promise物件.<br>
     所以在學會async/await用法前，一定要先懂promise的用法，甚至還要可以一起混用.
 
-實作範例:
+## 實作範例
 - [Example1](https://github.com/RC-Dev-Tech/nodejs-async-await/blob/main/src/examples/example1.ts) - 標準非同步的實作.
 - [Example2](https://github.com/RC-Dev-Tech/nodejs-async-await/blob/main/src/examples/example2.ts) - Promise非同步的基本實作.
 - [Example3](https://github.com/RC-Dev-Tech/nodejs-async-await/blob/main/src/examples/example3.ts) - Promise資料的傳遞.
