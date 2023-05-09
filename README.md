@@ -1,7 +1,7 @@
 # ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) NodeJs - Async/Await 非同步實作
 > ##### 理論請自行找，網路上有很多相關的文章，這邊只關注於範例實作的部分.
 
-<br>
+---
 
 <!--ts-->
 ## 目錄
@@ -14,7 +14,6 @@
 <!--te-->
 
 ---
-<br>
 
 ## 簡介
 首先，在介紹實作範例之前，有幾個重點要先講清楚一下.
@@ -66,7 +65,6 @@ Promise使用流程圖：
 - [Example6](https://github.com/RC-Dev-Tech/nodejs-async-await/blob/main/src/examples/example6.ts) - Async/Await 搭配Promise.all()使用.
 
 ---
-<br>
 
 ## 操作說明.
 #### 1. 安裝套件
@@ -75,19 +73,16 @@ Promise使用流程圖：
 > npm run start
 
 ---
-<br>
 
 ## 切換範例
 > 編輯在app.json中的"exsample_mode"，填入的數字代表第幾個範例.
 
 ---
-<br>
 
 ## 延伸項目
 * [NodeJs 系列實作](https://github.com/RC-Dev-Tech/nodejs-index) <br>
 
 ---
-<br>
 
 ## 參考資料
 * [認識同步與非同步 — Callback + Promise + Async/Await](https://medium.com/%E9%BA%A5%E5%85%8B%E7%9A%84%E5%8D%8A%E8%B7%AF%E5%87%BA%E5%AE%B6%E7%AD%86%E8%A8%98/%E5%BF%83%E5%BE%97-%E8%AA%8D%E8%AD%98%E5%90%8C%E6%AD%A5%E8%88%87%E9%9D%9E%E5%90%8C%E6%AD%A5-callback-promise-async-await-640ea491ea64) <br>
@@ -95,7 +90,6 @@ Promise使用流程圖：
 * [MDN - 非同步的 JavaScript 介紹](https://developer.mozilla.org/zh-TW/docs/Learn/JavaScript/Asynchronous/Introducing) <br>
 * [Heidi-Liu - 淺談 JavaScript：同步與非同步 & Callback Function & Event Loop](https://hackmd.io/@Heidi-Liu/note-javascript-callback) <br>
 * [JavaScript 的同步與非同步 - 從 Callback function 到 Promise](https://nicolakacha.coderbridge.io/2020/09/11/sync-async/) <br>
-
 
 ---
 <!--ts-->
