@@ -42,7 +42,7 @@
 
 <br>
 
-Promise使用流程圖：
+## Promise使用流程圖：
 ![](https://drive.google.com/uc?id=1oT_SbVq45bgtod-riZV5LJc8BvJYUvIy)
 
 
