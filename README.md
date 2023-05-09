@@ -17,7 +17,7 @@
 
 ---
 
-## 簡介
+## 簡介:
 首先，在介紹實作範例之前，有幾個重點要先講清楚一下.
 - JavaScript 是一個同步單執行緒（single thread）的程式語言，<br>
   用白話一點的方式解釋就是「JavaScript 一次只能做一件事情」，<br>
@@ -44,7 +44,7 @@
 
 ---
 
-## Promise使用流程圖
+## Promise使用流程圖:
 ![](https://drive.google.com/uc?id=1oT_SbVq45bgtod-riZV5LJc8BvJYUvIy)
 
 
@@ -60,7 +60,7 @@
 
 ---
 
-## 實作範例
+## 實作範例:
 - [Example1](https://github.com/RC-Dev-Tech/nodejs-async-await/blob/main/src/examples/example1.ts) - 標準非同步的實作.
 - [Example2](https://github.com/RC-Dev-Tech/nodejs-async-await/blob/main/src/examples/example2.ts) - Promise非同步的基本實作.
 - [Example3](https://github.com/RC-Dev-Tech/nodejs-async-await/blob/main/src/examples/example3.ts) - Promise資料的傳遞.
@@ -70,7 +70,7 @@
 
 ---
 
-## 操作說明.
+## 操作說明:
 #### 1. 安裝套件
 > npm install --save
 #### 2. 編譯 & 運行
@@ -78,17 +78,17 @@
 
 ---
 
-## 切換範例
+## 切換範例:
 > 編輯在app.json中的"exsample_mode"，填入的數字代表第幾個範例.
 
 ---
 
-## 延伸項目
+## 延伸項目:
 * [NodeJs 系列實作](https://github.com/RC-Dev-Tech/nodejs-index) <br>
 
 ---
 
-## 參考資料
+## 參考資料:
 * [認識同步與非同步 — Callback + Promise + Async/Await](https://medium.com/%E9%BA%A5%E5%85%8B%E7%9A%84%E5%8D%8A%E8%B7%AF%E5%87%BA%E5%AE%B6%E7%AD%86%E8%A8%98/%E5%BF%83%E5%BE%97-%E8%AA%8D%E8%AD%98%E5%90%8C%E6%AD%A5%E8%88%87%E9%9D%9E%E5%90%8C%E6%AD%A5-callback-promise-async-await-640ea491ea64) <br>
 * [MDN - Promise](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Promise) <br>
 * [MDN - 非同步的 JavaScript 介紹](https://developer.mozilla.org/zh-TW/docs/Learn/JavaScript/Asynchronous/Introducing) <br>
