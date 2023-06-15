@@ -9,8 +9,6 @@
 * [Promise使用流程圖](#Promise使用流程圖)
 * [實作範例](#實作範例)
 * [操作說明](#操作說明)
-* [切換範例](#切換範例)
-* [延伸項目](#延伸項目)
 * [參考資料](#參考資料)
 * [備註](#備註)
 <!--te-->
@@ -75,16 +73,8 @@
 > npm install --save
 #### 2. 編譯 & 運行
 > npm run start
-
----
-
-## 切換範例:
+#### 3. 切換範例:
 > 編輯在app.json中的"exsample_mode"，填入的數字代表第幾個範例.
-
----
-
-## 延伸項目:
-* [NodeJs 系列實作](https://github.com/RC-Dev-Tech/nodejs-index) <br>
 
 ---
 
