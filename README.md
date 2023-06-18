@@ -59,12 +59,12 @@
 ---
 
 ## 實作範例:
-- [Example1](https://github.com/RC-Dev-Tech/nodejs-async-await/blob/main/src/examples/example1.ts) - 標準非同步的實作.
-- [Example2](https://github.com/RC-Dev-Tech/nodejs-async-await/blob/main/src/examples/example2.ts) - Promise非同步的基本實作.
-- [Example3](https://github.com/RC-Dev-Tech/nodejs-async-await/blob/main/src/examples/example3.ts) - Promise資料的傳遞.
-- [Example4](https://github.com/RC-Dev-Tech/nodejs-async-await/blob/main/src/examples/example4.ts) - Async/Await非同步的基本實作.
-- [Example5](https://github.com/RC-Dev-Tech/nodejs-async-await/blob/main/src/examples/example5.ts) - Async/Await非同步的錯誤處理.
-- [Example6](https://github.com/RC-Dev-Tech/nodejs-async-await/blob/main/src/examples/example6.ts) - Async/Await 搭配Promise.all()使用.
+- [Example1](https://github.com/RC-Dev-Tech/typescript-async-await/blob/main/src/examples/example1.ts) - 標準非同步的實作.
+- [Example2](https://github.com/RC-Dev-Tech/typescript-async-await/blob/main/src/examples/example2.ts) - Promise非同步的基本實作.
+- [Example3](https://github.com/RC-Dev-Tech/typescript-async-await/blob/main/src/examples/example3.ts) - Promise資料的傳遞.
+- [Example4](https://github.com/RC-Dev-Tech/typescript-async-await/blob/main/src/examples/example4.ts) - Async/Await非同步的基本實作.
+- [Example5](https://github.com/RC-Dev-Tech/typescript-async-await/blob/main/src/examples/example5.ts) - Async/Await非同步的錯誤處理.
+- [Example6](https://github.com/RC-Dev-Tech/typescript-async-await/blob/main/src/examples/example6.ts) - Async/Await 搭配Promise.all()使用.
 
 ---
 
